@@ -1,5 +1,7 @@
 # Fashion_Store_Data_Analysis
 
+📍Download the [dataset](https://docs.google.com/spreadsheets/d/12IkE1PLFDqymEsJvnxPoFDuwncDPbbWHzxJQrh-DFw4/edit?usp=sharing) from here
+
 ## Sample Insights
 
 - Women are more likely to buy compared to men (~65%)
