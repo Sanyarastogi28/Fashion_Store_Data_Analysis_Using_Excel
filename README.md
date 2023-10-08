@@ -1,6 +1,12 @@
 # Fashion_Store_Data_Analysis
 
-📍Download the [dataset](https://docs.google.com/spreadsheets/d/12IkE1PLFDqymEsJvnxPoFDuwncDPbbWHzxJQrh-DFw4/edit?usp=sharing) from here
+📍Download the [dataset](https://docs.google.com/spreadsheets/d/12IkE1PLFDqymEsJvnxPoFDuwncDPbbWHzxJQrh-DFw4/edit?usp=sharing) from here.
+
+📍Download the complete [report](https://1drv.ms/x/s!AhQaAA_GkxO0hoFI_p34_T_q3iYZIQ?e=cqe1HZ) from here.
+
+## Objective
+
+Fashion Store wants to create an annual sales report for 2023. So that, this store can understand their customers and grow more sales in 2024.
 
 ## Sample Insights
 
