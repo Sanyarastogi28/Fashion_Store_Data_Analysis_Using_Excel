@@ -1,4 +1,4 @@
-# Fashion_Store_Data_Analysis
+# Fashion Store Data Analysis Using Excel
 
 📍Download the [dataset](https://docs.google.com/spreadsheets/d/12IkE1PLFDqymEsJvnxPoFDuwncDPbbWHzxJQrh-DFw4/edit?usp=sharing) from here.
 
